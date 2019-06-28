@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763058927500",
+    "firebase_url": "https://camaron-c3a48.firebaseio.com",
+    "project_id": "camaron-c3a48",
+    "storage_bucket": "camaron-c3a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763058927500:android:2cbc4190dc20cc08",
+        "android_client_info": {
+          "package_name": "com.example.camaron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763058927500-77h1vrqj2puemhh8g86pqs4d6fg9r72r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camaron",
+            "certificate_hash": "2ee3ecaeb2d9246c1b844270c3f8a1fb2bdb0d16"
+          }
+        },
+        {
+          "client_id": "763058927500-4kdeobsvi93s10oq4n537uuk57sm9fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJuCfCa-BzoyqyuhE8L_eL21KogEW630"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763058927500-4kdeobsvi93s10oq4n537uuk57sm9fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
